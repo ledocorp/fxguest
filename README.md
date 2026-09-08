@@ -8,7 +8,7 @@ fxguest demonstrates FsCap allow/deny and FuelCap exhaust under a guest session.
 |--|--|
 | **Requires** | [fx](https://github.com/ledocorp/fxlang) **0.9.6+** (with `--cli`) |
 | **Platforms** | Windows + Linux **x86_64** |
-| **License** | Apache-2.0 |
+| **License** | GPL-3.0 |
 | **Org** | [LedoCorp](http://www.ledocorp.org) |
 
 ## Install (release binaries)
@@ -71,4 +71,4 @@ Soft-fx · plugin loader · WASM guest · NetCap HTTPS (see fxfetch) · concurre
 
 ## License
 
-Copyright Shawn Londono · LedoCorp · Apache-2.0 — see [LICENSE](LICENSE).
+Copyright Shawn Londono · LedoCorp · GPL-3.0 — see [LICENSE](LICENSE).
